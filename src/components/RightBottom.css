@@ -1,0 +1,9 @@
+.rightbottom { 
+    width: 23.5rem;
+    padding: 30px 10px 20px 10px ;
+    border-bottom: 1px solid gray;
+}
+.rightbottom>h1 { 
+    font-size: 1.3rem;
+    font-weight: 400;
+}
